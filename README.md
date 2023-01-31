@@ -1,16 +1,14 @@
-### Hi there 👋
+Hi there 👋, i'm Lucas
 
-<!--
-**LucasParolin/LucasParolin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working with mobile development
+- 🌱 I’m currently learning swift
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I love gaming
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">   <a href="https://github.com/LucasParolin%22%3E   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasParolin&show_icons=true&theme=dracula&include_all_commits=true&count_private=true%22/%3E   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasParolin&layout=compact&langs_count=7&theme=dracula%22/%3E
+
+
+![Snake animation](https://github.com/LucasParolin/LucasParolin/blob/output/github-contribution-grid-snake.svg)
+
+</div>
